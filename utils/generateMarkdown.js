@@ -3,7 +3,7 @@
 function renderLicenseBadge(data) {
   l = data.licenses
   if (l == 'MIT'){
-    return `![badmath](https://img.shields.io/apm/l/vim-mode)`
+    return `https://img.shields.io/apm/l/vim-mode`
   } else if (l == 'Apache License 2.0'){
     return `https://img.shields.io/aur/license/android-studio`
   } else if (l == 'ISC'){
