@@ -4,6 +4,7 @@
   ## Description 
   * a simple readme generator
   ## Table of Contents
+  * [Description](#Description)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Liscense](#License)
@@ -19,7 +20,7 @@
   ## Contributers 
   * no contributors
   ## Tests 
-  * no tests for this project
+  * no test for this project
   ## Questions
   * https://github.com/anjubimal
   * For further information you can contact me through email. Email: anjubimal@tamu.edu
