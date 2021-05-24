@@ -2,7 +2,7 @@
   ![badmath](https://img.shields.io/apm/l/vim-mode)
   #  README generator
   ## Description 
-  * undefined
+  * simple readme generator
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -11,13 +11,13 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
   ## Installation Guide 
-  * run npm init and then npm install
+  * run npm init command in terminal. Next, run npm install
   ## Usage 
-  * open terminal in file and run node index command. Answer prompts to produce readme.
+  * open terminal in file and run node index command. Answer prompts and readme will be generated in README.md file.
   ## License
   https://opensource.org/licenses/MIT
   ## Contributers 
-  * no contributors
+  * no contributors 
   ## Tests 
   * no tests for this project
   ## Questions

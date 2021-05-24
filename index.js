@@ -45,13 +45,6 @@ const questions = () => {
             type: 'input',
             name: 'description',
             message: 'Provide project description:',
-            when: ({ confirmAbout }) => {
-                if (confirmAbout) {
-                    return true;
-                } else {
-                    return false;
-                }
-            }
         },
         {
             type: 'checkbox',
