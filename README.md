@@ -2,7 +2,7 @@
   ![badmath](https://img.shields.io/apm/l/vim-mode)
   #  README generator
   ## Description 
-  * simple readme generator
+  * a simple readme generator
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -17,7 +17,7 @@
   ## License
   https://opensource.org/licenses/MIT
   ## Contributers 
-  * no contributors 
+  * no contributors
   ## Tests 
   * no tests for this project
   ## Questions
